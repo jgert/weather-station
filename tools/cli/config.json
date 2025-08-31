@@ -1,0 +1,59 @@
+{
+  "moon_phases": {
+    "font": "weathericons-regular-webfont.ttf",
+    "size": 64,
+    "sets": [
+      {
+        "type": "range",
+        "start": 61648,
+        "end": 61675
+      }
+    ]
+  },
+  "digits": {
+    "font": "Do_Hyeon/DoHyeon-Regular.ttf",
+    "sets": [
+      {
+        "type": "range",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "type": "set",
+        "set": [45, 67, 176]
+      }
+    ],
+    "size": 100
+  },
+  "weather": {
+    "font": "weathericons-regular-webfont.ttf",
+    "size": 128,
+    "sets": [
+      {
+        "type": "set",
+        "set": [ "0xF00D", "0xF002", "0xF041", "0xF013", "0xF01A", "0xF009", "0xF005", "0xF00A"]
+      }
+    ]
+  },
+  "weather_small": {
+    "font": "weathericons-regular-webfont.ttf",
+    "size": 32,
+    "sets": [
+      {
+        "type": "set",
+        "set": [ "0xF00D", "0xF002", "0xF041", "0xF013", "0xF01A", "0xF009", "0xF005", "0xF00A"]
+      }
+    ]
+  },
+  "text": {
+    "font": "Do_Hyeon/DoHyeon-Regular.ttf",
+    "size": 32,
+    "sets": [
+      {
+        "type": "range",
+        "start": "0x20",
+        "end": "0x7E"
+      }
+    ]
+  }
+}
